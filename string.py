@@ -32,6 +32,7 @@ from strings.string_rev import is_pallindrom
 
 print(is_pallindrom("deepika"))
 print(__name__)
+print("this changes comes from the github")
 
 
 
